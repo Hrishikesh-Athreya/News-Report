@@ -1,0 +1,12 @@
+card_height = 224dp
+
+
+Headlines and everything non article = kievit ft font
+content = ITC Charter font
+================================================================
+API KEY:
+799b6b7ba7584496a34aeba65d72323e
+Local : https://newsapi.org/v2/top-headlines?country=in&apiKey=799b6b7ba7584496a34aeba65d72323e
+World : https://newsapi.org/v2/top-headlines?apiKey=799b6b7ba7584496a34aeba65d72323e(Not the correct API)
+=====================================================
+Gonna have 3 tabs on the bottom : Local , World and favorites.

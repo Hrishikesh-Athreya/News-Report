@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="Bottom_navigation_height">72dp</dimen>
+    <dimen name="Recyclerciew_height">558dp</dimen>
+</resources>
