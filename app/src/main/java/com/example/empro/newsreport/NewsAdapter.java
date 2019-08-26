@@ -1,12 +1,9 @@
 package com.example.empro.newsreport;
 
 import android.app.Application;
-import android.content.Context;
 import android.content.Intent;
 import android.graphics.Bitmap;
-import android.graphics.BitmapFactory;
 import android.net.Uri;
-import android.os.AsyncTask;
 import android.support.annotation.NonNull;
 import android.support.v7.widget.RecyclerView;
 import android.util.Log;
@@ -16,16 +13,11 @@ import android.view.ViewGroup;
 import android.widget.ImageButton;
 import android.widget.TextView;
 import android.widget.Toast;
-
 import com.example.empro.newsreport.RoomData.NewsDataModelClass;
 import com.example.empro.newsreport.RoomData.NewsRepository;
-import com.example.empro.newsreport.RoomData.NewsRoomViewModel;
 import com.makeramen.roundedimageview.RoundedImageView;
 import com.squareup.picasso.Picasso;
-
 import java.io.IOException;
-import java.net.MalformedURLException;
-import java.net.URL;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -57,7 +49,6 @@ public class NewsAdapter extends RecyclerView.Adapter<NewsAdapter.ViewHolder> {
             super(itemView);
             thumbnailImageView = itemView.findViewById(R.id.thumbnail);
             nameTextView = itemView.findViewById(R.id.title);
-//          IDtextview = itemView.findViewById(R.id.description);
             imgButton = itemView.findViewById(R.id.imgbutton);
         }
 

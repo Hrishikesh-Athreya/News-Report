@@ -11,11 +11,9 @@ import java.util.ArrayList;
 
 public class NewsViewModel extends ViewModel {
     private static final String NEWSAPI_BASE_URL = "https://newsapi.org/v2/";
-    private static final String NEWSAPI_API_KEY = "799b6b7ba7584496a34aeba65d72323e";
+    private static final String NEWSAPI_API_KEY = "insert API key here";
     private MutableLiveData<ArrayList<News>> NewsLivedata = new MutableLiveData();
-//    private String mURL;
     public NewsViewModel(){
-//        mGetNews(url);
     }
     public MutableLiveData<ArrayList<News>> getNews() {
         Uri baseURI = Uri.parse(NEWSAPI_BASE_URL);
