@@ -15,7 +15,7 @@ import com.example.empro.newsreport.News;
 import java.util.ArrayList;
 import java.util.List;
 
-
+//Holds the current news from the database
 public class NewsRepository {
     private static DAO mNewsDAO;
     static LiveData<NewsDataModelClass> newsLiveData = new MutableLiveData<>();

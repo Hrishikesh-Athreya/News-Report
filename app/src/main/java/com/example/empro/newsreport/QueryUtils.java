@@ -17,6 +17,7 @@ import java.net.MalformedURLException;
 import java.net.URL;
 import java.util.ArrayList;
 
+//A class which performs the network request to the news api , gets the response and maps it to a news object.
 public class QueryUtils {
 
     private QueryUtils(){}

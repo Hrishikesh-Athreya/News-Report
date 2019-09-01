@@ -9,9 +9,10 @@ import android.os.AsyncTask;
 import java.io.IOException;
 import java.util.ArrayList;
 
+//Is the view model which has the current news gotten from the query utils class.
 public class NewsViewModel extends ViewModel {
     private static final String NEWSAPI_BASE_URL = "https://newsapi.org/v2/";
-    private static final String NEWSAPI_API_KEY = "insert API key here";
+    private static final String NEWSAPI_API_KEY = "";
     private MutableLiveData<ArrayList<News>> NewsLivedata = new MutableLiveData();
     public NewsViewModel(){
     }

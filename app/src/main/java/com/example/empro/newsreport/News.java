@@ -1,6 +1,6 @@
 package com.example.empro.newsreport;
 import android.graphics.Bitmap;
-
+//The news POJO which is used to map the news response.
 public class News {
     private String Title;
     private String Description;

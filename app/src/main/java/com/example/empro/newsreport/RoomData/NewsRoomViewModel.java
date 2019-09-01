@@ -11,7 +11,7 @@ import com.example.empro.newsreport.News;
 
 import java.util.ArrayList;
 import java.util.List;
-
+//A viewmodel to perform room database queries and actions.
 public class NewsRoomViewModel extends AndroidViewModel {
     private LiveData<List<NewsDataModelClass>> NewsLiveData;
     private NewsRepository mRepository;

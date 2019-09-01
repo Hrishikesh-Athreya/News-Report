@@ -6,7 +6,7 @@ import android.arch.persistence.room.RoomDatabase;
 import android.content.Context;
 import android.util.Log;
 
-
+//The database class which is used to create an instance of the news database
 @Database(entities = {NewsDataModelClass.class},version = 1,exportSchema = false)
 public abstract class NewsDatabase extends RoomDatabase {
     public abstract DAO DAO();

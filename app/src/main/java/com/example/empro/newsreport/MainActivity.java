@@ -23,7 +23,7 @@ import android.view.MenuItem;
 import android.widget.TextView;
 
 import java.util.ArrayList;
-
+//THe main activity which performs the loading of news for users.
 public class MainActivity extends AppCompatActivity {
     private NewsAdapter mNewsAdapter;
     private RecyclerView newsview;

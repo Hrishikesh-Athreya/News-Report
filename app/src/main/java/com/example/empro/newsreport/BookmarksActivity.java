@@ -16,8 +16,7 @@ import com.example.empro.newsreport.RoomData.NewsRoomViewModel;
 import java.util.ArrayList;
 import java.util.List;
 
-//TODO:Newsviewmodel is being returned as null because it is in bookmarksactivity and not main
-//TODO: activity , plan out what activity should come where
+//The bookmarks activity java class . This class observes the database and displays the bookmarked news.
 public class BookmarksActivity extends AppCompatActivity {
     private NewsAdapter mNewsAdapter;
     private RecyclerView newsview;

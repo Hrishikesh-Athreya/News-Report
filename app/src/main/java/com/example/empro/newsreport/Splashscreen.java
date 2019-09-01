@@ -12,7 +12,7 @@ import android.os.Bundle;
 import android.os.Handler;
 import android.view.Window;
 import android.view.WindowManager;
-
+//The splash screen activity
 public class Splashscreen extends AppCompatActivity {
 
     private static int SPLASH_TIME_OUT = 8000;
