@@ -3,6 +3,8 @@
 
 An android app which displays the latest news, It also lets users save any article they might be intrested in for later reference.
 
+## Screenshots
+
 <img src="https://user-images.githubusercontent.com/36475626/63711430-08fdb500-c859-11e9-8123-6a1fed6400fd.jpeg" alt="alt text" width="360" height="640">
 <img src="https://user-images.githubusercontent.com/36475626/63712289-0d2ad200-c85b-11e9-9f3a-906a06fb5eb7.jpeg" alt="alt text" width="360" height="640">
 
@@ -19,11 +21,10 @@ An android app which displays the latest news, It also lets users save any artic
 My very first android project where I had to design the UI and the architecture completely by myself. I figured there was a lot more to it than what meets the eye when a product had to be developed and this gave me a rather in depth understanding of what is involved. As a result , I ended up learning about many design patterns and techonologies that i previously did not have an understanding of.  
 
 ## Technologies used
-### Languages 
-* Java
-* XML
+* Android lifecycle components
+* Room persistance library
 ### Built with
 * [Android Studio](https://developer.android.com/studio) 
-
+* [Adobe XD](https://www.adobe.com/in/products/xd.html) for prototyping.
 ## API referencce
 * [NewsAPI.org](https://newsapi.org/)
