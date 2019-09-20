@@ -23,7 +23,7 @@ My very first android project where I had to design the UI and the architecture 
 ## Technologies used
 * Android lifecycle components
 * Room persistance library
-### Built with
+## Built with
 * [Android Studio](https://developer.android.com/studio) 
 * [Adobe XD](https://www.adobe.com/in/products/xd.html) for prototyping.
 ## API reference
