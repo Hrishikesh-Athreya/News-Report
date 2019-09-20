@@ -18,7 +18,7 @@ An android app which displays the latest news, It also lets users save any artic
 * Save news articles for later reference
 
 ## Motivation 
-My very first android project where I had to design the UI and the architecture completely by myself. I figured there was a lot more to it than what meets the eye when a product had to be developed and this gave me a rather in depth understanding of what is involved. As a result , I ended up learning about many design patterns and technologies that i previously did not have an understanding of.  
+My very first android project where I had to design the UI and the architecture completely by myself. I figured there was a lot more to it than what meets the eye when a product had to be developed and this gave me a rather in depth understanding of what is involved. As a result , I ended up learning about many design patterns and technologies that I previously did not have an understanding of.  
 
 ## Technologies used
 * Android lifecycle components
