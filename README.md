@@ -13,7 +13,7 @@ An android app which displays the latest news, It also lets users save any artic
 
 ## Features 
 * View the latest trending news from around the world
-* Save news articles for later refer
+* Save news articles for later reference
 
 ## Motivation 
 My very first android project where I had to design the UI and the architecture completely by myself. I figured there was a lot more than what meets the eye when a product had to be developed and this gave me a rather in depth understanding of what is involved. As a result , I ended up learning about many design patterns and techonologies that i previously did not have an understanding of.  
