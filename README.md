@@ -26,5 +26,5 @@ My very first android project where I had to design the UI and the architecture 
 ### Built with
 * [Android Studio](https://developer.android.com/studio) 
 * [Adobe XD](https://www.adobe.com/in/products/xd.html) for prototyping.
-## API referencce
+## API reference
 * [NewsAPI.org](https://newsapi.org/)
