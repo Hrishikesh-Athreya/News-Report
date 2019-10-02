@@ -1,5 +1,5 @@
 # News Report
-> World news at your fingertips !
+> World news at your fingertips ! 
 
 An android app which displays the latest news, It also lets users save any article they might be intrested in for later reference.
 
